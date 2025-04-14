@@ -59,3 +59,5 @@ Once both the backend and frontend servers are running:<br>
 2. <b>Pagination:</b> The app displays 10 products per page. Navigation buttons are available to switch between pages.
 3. <b>Row Selection:</b> Users can select individual rows or use a "Select All" option for the visible rows.
 4. <b>In-Memory Deletion:</b> Users can delete rows, and the data is only removed locally without affecting the backend.
+![image](https://github.com/user-attachments/assets/1ba9e10d-1b96-4765-8637-c1abbea51dd2)
+
