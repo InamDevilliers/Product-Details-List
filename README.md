@@ -46,7 +46,7 @@ This will install:<br>
 
 <b>3. Running the React Frontend<br></b>
 Start the frontend development server with:<br>
-  <b>npm start<br></b>
+  <b>npm run dev<br></b>
 The React app will now run on http://localhost:5173. You can access the app through your browser.<br>
 
 # Running the Full Application
