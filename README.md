@@ -22,7 +22,7 @@ Use the terminal or command prompt to navigate into the project directory:<br>
 # Backend (Node.js) Setup
 <b>1. Install Dependencies for the Backend: <br></b>
 The backend is located in the root of the product-details directory. You need to install all necessary dependencies:<br>
- npm install<br>
+ <b>npm install<br></b>
 This will install the following packages:<br>
 * express: Web framework for building the API server.
 * axios: Used to fetch data from the external API.
@@ -36,7 +36,7 @@ This will install the following packages:<br>
 # Frontend (React) Setup
 <b>1. Navigate to the Frontend Directory<br></b>
 Change into the React frontend folder:<br>
-<b>cd Frontend\product-details<br></b>
+<b>cd Frontend\product-details-list<br></b>
 
 <b>2. Install Dependencies for the Frontend<br></b>
 Install the necessary packages for the React app by running:<br>
